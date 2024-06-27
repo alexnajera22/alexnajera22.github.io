@@ -1,0 +1,21 @@
+
+body{
+    background-color:deepskyblue
+    ;
+
+}
+h3,h2{
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    background-color:blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    border: 2px solid #000;
+    font:bold italic 30px verdana;
+}
+
+
+p{
+    font-family: cursive;
+}

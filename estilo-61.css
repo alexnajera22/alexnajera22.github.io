@@ -1,0 +1,9 @@
+h1 {
+    font:bold italic 30px verdana;
+}
+h2{
+    font: bold oblique 26px "arial black";
+}
+h3{
+    font: normal unset 32px Times;
+}
